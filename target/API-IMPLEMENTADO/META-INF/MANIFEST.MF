@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1
+Built-By: rrramire
+Implementation-Vendor-Id: API-IMPLEMENTADO
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_261
+Main-Class: ${start-class}
+
