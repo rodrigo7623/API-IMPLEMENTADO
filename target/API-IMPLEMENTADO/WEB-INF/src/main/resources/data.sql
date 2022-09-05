@@ -1,1 +1,0 @@
-INSERT INTO api_acceso VALUES (1, 'WM6LO1waYFjJIXskxolz/Nqlr8RLnvG5/z363Q2QGyQ=', '@apiimplementado', 'key');

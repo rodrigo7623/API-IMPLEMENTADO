@@ -1,1 +1,0 @@
-CREATE TABLE api_acceso (id INTEGER, api_key VARCHAR, password VARCHAR, secret_key VARCHAR);
