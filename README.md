@@ -40,4 +40,5 @@ Es posible acceder a los recursos del servicio, a través de un IDE como Eclipse
 
 ## Documentación Swagger
 Se puede acceder a la documentación interactiva del proyecto a través de la URL:
-* En el servidor de aplicaciones: 
+* En el servidor de aplicaciones: IP_DEL_SERVIDOR:8080/API-IMPLEMENTADO/swagger-ui.html#
+* En el equipo local: localhost:8080/swagger-ui.html#
