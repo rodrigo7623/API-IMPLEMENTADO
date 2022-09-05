@@ -23,8 +23,8 @@ El servicio web se implementó con:
 ## Como compilar
 Tener instalado Apache Maven en el equipo y el JDK 8.
 Desde la terminal ubicarse en el directorio raíz del proyecto (donde está el archivo pom.xml) y ejecutar los siguientes comandos:
-> mvn clean ->remueve los archivos que se geraron en una compilación anterior. 
-> mvn packge ->compila el proyecto y genera el archivo war o jar, según la parametrización del proyecto.
+- mvn clean ->remueve los archivos que se geraron en una compilación anterior. 
+- mvn packge ->compila el proyecto y genera el archivo war o jar, según la parametrización del proyecto.
 
 ## Deployar en un servidor de aplicaciones
 Para poder acceder a los recursos disponibles en el servicio, es necesario deployar el archivo war o jar generado en un servidor de aplicaciones JBOSS 7.1.1 o bien una versión que soporte JDK 8.
